@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "fixed_at": "2026-11-10T21:49:59.496430+03:00",
+  "file_name": "openpowerlifting-2026-10-03-199bb416.csv",
+  "source_path": "C:\\Users\\Aleks\\alexST\\VSCodePr\\.unik1\\Big_data\\BigData_Kursach\\openpowerlifting-2026-10-03\\openpowerlifting-2026-10-03-199bb416.csv",
+  "size_bytes": 826444366,
+  "sha256": "0dec66dfd43a288742b8875ff8667aeaab1866496611b910b42ddc550d4c2b97",
+  "downloaded_at": null,
+  "snapshot_date_from_filename": "2026-10-03",
+  "revision_from_filename": "199bb416",
+  "provenance_verified": false,
+  "record_count": 4043255,
+  "field_count": 42,
+  "date_min": "1964-09-05",
+  "date_max": "2026-09-27",
+  "elapsed_seconds": 414.739,
+  "companions": {
+    "README.txt": {
+      "size_bytes": 24412,
+      "sha256": "ca2dc6553dfd974ce4587c7a6bc2995b043af4589a5ff2646bd0d825bc229528"
+    },
+    "LICENSE.txt": {
+      "size_bytes": 1142,
+      "sha256": "5446f59737d1d622fffcc576ebde342397cacb1848581648d94d06a29c6b7216"
+    }
+  },
+  "source_url": "https://openpowerlifting.gitlab.io/opl-csv/bulk-csv.html",
+  "documentation_url": "https://openpowerlifting.gitlab.io/opl-csv/bulk-csv-docs.html"
+}
